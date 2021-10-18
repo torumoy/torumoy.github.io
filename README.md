@@ -4,7 +4,7 @@
 
 **Worcester Polytechnic Institute**
 
-**Email**: tghoshalATwpiDOTedu
+**Email**: tghoshal AT wpi DOT edu
 
 **Phone**: by request
 
